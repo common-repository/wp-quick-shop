@@ -1,0 +1,114 @@
+/* CSS Document */
+.wp-quick-instructions{
+	width:100%;
+	float:left;
+	padding:10px;
+	font-size: 14px;
+}
+
+
+.wpqs_search_box_wrapper{
+
+	float:right;
+	margin:10px 0;
+}
+
+.wpqs_search_box_wrapper input {
+	background: #fff;
+	border: solid 1px #ccc;
+	box-sizing: border-box;
+	outline: none;
+	padding: 10px;
+	border-radius: 2px;
+	width: 200px;
+	float: right;
+}
+
+
+.qs-content img.wp-quick-img-thumbnail{
+	height:40px;
+	width:auto;	
+	box-shadow:none;
+}
+.qs-content table{
+	border:0;
+
+}
+.qs-content table tbody td{
+	border-bottom:1px solid #ccc;
+	
+}
+.qs-content table td.qs-title,
+.qs-content table td.qs-price,
+.qs-content table td.qs-qty,
+.qs-content table td.qs-stock,
+.qs-content table td.qs-buy{
+	text-align:left;
+	font-size:14px;
+}
+.qs-content table td.qs-qty{
+	text-align:center;
+}
+.qs-content table tbody td a,
+.qs-content table tbody td a:visited,
+.qs-content table tbody td a:hover{
+	font-size:14px;
+	text-shadow: none;
+	box-shadow: none;	
+}
+.qs-content table td{
+	padding: 6px 10px;
+	font-size:14px;
+}
+.qs-content table td input[type="text"], 
+.qs-content table td input[type="number"] {
+	padding: 2px 6px;
+	width: auto;
+	margin: 0 auto;
+	text-align: center;
+}
+.qs-content table td input[type="text"],
+.qs-content table td textarea{
+	width:98%;
+	text-align:left;
+}
+.wpqs-custom-field-cart {
+	float: left;
+	width: 100%;
+	padding: 20px 0;
+}
+.single-product form.cart .wpqs-custom-field-cart input {
+	float: left;
+	width: auto;
+	margin: 0 0 0 8px;
+	padding: 6px 4px;
+	position: relative;
+	top: -4px;
+}
+label[for^="_wpqs_custom"] {
+	float: left;
+}
+
+
+tr.var_row table{
+	margin: 0;
+}
+
+tr.qs_var_product table td.label{
+	display: table-cell;
+	padding: 16px 0 0 0;
+}
+
+.qs_var_product{
+	cursor: pointer;
+}
+
+.qs_var_product .add_to_cart_button.disabled{
+
+	opacity: 0.5;
+
+}
+
+.qs_var_product input.error{
+	border:2px solid tomato !important;
+}

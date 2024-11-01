@@ -1,0 +1,127 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+.archive .thumbnail-quantity.quantity,
+.related.products .thumbnail-quantity.quantity,
+.qs-plain-title{
+	display: none;
+}	
+
+
+.qs-content table thead tr{
+	background-color:#eeeeee !important;
+}
+.qs-content table tbody tr{ 
+	background-color:#f7f7f7 !important;
+}
+.qs-box a.button, .qs-box input.button {
+	border-radius: 6px;
+	box-shadow: 0 2px 2px #dddddd !important;
+	color: #ffffff !important;
+	cursor: pointer;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 12px;
+	margin: 2px;
+	display: inline-block;
+	padding: 6px 12px !important;
+	text-decoration: none;
+	min-width: 60px;
+}	
+.qs-content table .qty-box {
+	background-color: #f8f8f8;
+	border: 1px solid #ccc;
+	border-radius: 0;
+	height: 32px;
+	line-height: normal;
+	padding: 3px 6px;
+	width: 44px;
+}
+.qs-box .box-heading {
+	background: #567304 none repeat scroll 0 0;
+	border: 1px solid #dbdee1;
+	border-radius: 7px 7px 0 0;
+	color: #fff;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 14px;
+	padding: 8px 10px 7px;
+}		
+.qs-box .added_to_cart {
+    background: rgba(0, 0, 0, 0) url("../images/tick.png") no-repeat scroll center top / 26px auto;
+    color: #fff;
+    content: "";
+    display: inline;
+    float: right;
+    height: 26px;
+    margin: 2px 0 0;
+    overflow: hidden;
+    text-indent: 100%;
+    width: 26px;
+}
+
+.qs-content table td{
+	color:#000;
+}
+.qs-content table td{
+	text-align:center;
+}
+
+.qs-content .qs-buy{
+	width:130px;
+}
+
+.button.add_to_cart_button,
+.button.checkout-button,
+.woocommerce .button,
+.woocommerce button {
+	background: transparent none repeat scroll 0 0 !important;
+	background-color: #ff9900 !important;
+	color:#fff !important;
+	min-width:100px;
+	text-align:center;
+	border: 2px solid #ff9900 !important;
+}		
+
+.button.add_to_cart_button:hover,
+.button.checkout-button:hover,
+.woocommerce .button:hover,
+.woocommerce button:hover {
+	background: transparent none repeat scroll 0 0 !important;
+	border: 2px solid #ff9900 !important;
+	color: #ff9900 !important;
+
+}
+.woocommerce table,
+.woocommerce table th,
+.woocommerce .input-text,
+#add_payment_method #payment, 
+.woocommerce-cart #payment, 
+.woocommerce-checkout #payment{
+	background:transparent !important;
+}
+.woocommerce .input-text,
+#add_payment_method #payment, 
+.woocommerce-cart #payment, 
+.woocommerce-checkout #payment {
+	border: 1px solid #ccc;
+}
+
+.wpqs-custom-field-cart{
+	margin-bottom: 1em;
+	width: 100%;
+}
+
+.single-product form.cart .wpqs-custom-field-cart input,
+.single-product form.cart .wpqs-custom-field-cart textarea{
+
+	width: 100%;
+
+}
+
+
+
+

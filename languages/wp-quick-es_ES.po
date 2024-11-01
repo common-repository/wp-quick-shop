@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-02-27 12:11+0500\n"
+"PO-Revision-Date: 2019-02-27 12:12+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/functions.php:156 inc/wpqs_settings.php:14
+msgid "Settings"
+msgstr "Ajustes"
+
+#: inc/functions.php:162
+msgid "Go Premium"
+msgstr "Hazte Premium"
+
+#: inc/functions.php:191
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tiene permisos suficientes para acceder a esta página."
+
+#: inc/products-display.php:4 inc/wc-products-display.php:8
+#: inc/wpec-products-display.php:9
+msgid "Shopping cart is not ready yet."
+msgstr "El carrito de compras no está listo todavía."
+
+#: inc/products-display.php:56 inc/wc-products-display.php:52
+#: inc/wpec-products-display.php:56 inc/wpec-products-display.php:98
+msgid "Image"
+msgstr "Imagen"
+
+#: inc/products-display.php:57 inc/products-display.php:119
+#: inc/wc-products-display.php:53 inc/wpec-products-display.php:57
+#: inc/wpec-products-display.php:102
+msgid "Title"
+msgstr "Título"
+
+#: inc/products-display.php:58 inc/wc-products-display.php:54
+#: inc/wpec-products-display.php:58 inc/wpec-products-display.php:105
+msgid "Price"
+msgstr "Precio"
+
+#: inc/products-display.php:59 inc/wc-products-display.php:55
+#: inc/wpec-products-display.php:59 inc/wpec-products-display.php:107
+msgid "Qty"
+msgstr "Cantidad"
+
+#: inc/products-display.php:60 inc/wc-products-display.php:56
+#: inc/wpec-products-display.php:60 inc/wpec-products-display.php:108
+msgid "Stock"
+msgstr "Valores"
+
+#: inc/products-display.php:61 inc/products-display.php:127
+#: inc/wc-products-display.php:57 inc/wc-products-display.php:123
+#: inc/wpec-products-display.php:61 inc/wpec-products-display.php:109
+#: inc/wpec-products-display.php:112
+msgid "Buy"
+msgstr "Comprar"
+
+#: inc/products-display.php:110 inc/wc-products-display.php:106
+#: inc/wpec-products-display.php:93
+msgid "Available"
+msgstr "Disponible"
+
+#: inc/products-display.php:144 inc/wc-products-display.php:140
+#: inc/wpec-products-display.php:129
+msgid "Add to Cart"
+msgstr "añadir a la cesta"
+
+#: inc/wc-products-display.php:45 inc/wpec-products-display.php:49
+msgid "Products"
+msgstr "Productos"
+
+#: inc/wpqs_settings.php:16
+msgid "Click here to download pro version"
+msgstr "Haga clic aquí para descargar la versión pro"
+
+#: inc/wpqs_settings.php:16
+msgid "Already a Pro Member?"
+msgstr "¿Ya eres miembro Pro?"
+
+#: inc/wpqs_settings.php:33
+msgid "You can buy multiple products quickly and easily."
+msgstr "Puedes comprar múltiples productos de forma rápida y sencilla."
+
+#: inc/wpqs_settings.php:33
+msgid ""
+"For more detail about the products or services, click on the title link."
+msgstr ""
+"Para obtener más detalles sobre los productos o servicios, haga clic en el "
+"enlace del título."
+
+#: inc/wpqs_settings.php:34
+msgid ""
+"To do quick shopping, simply add the required quantity (Qty) for ALL the "
+"product(s) and/or service(s) you wish to buy, then scroll down to the bottom "
+"of the relevant section and click Add to Cart."
+msgstr ""
+"Para realizar compras rápidas, simplemente agregue la cantidad requerida "
+"(Cant.) Para TODOS los productos y / o servicios que desea comprar, luego "
+"desplácese hacia abajo hasta la parte inferior de la sección correspondiente "
+"y haga clic en Agregar al carrito."
+
+#: inc/wpqs_settings.php:34
+msgid ""
+"Or simply click buy button for individual purchase and follow the tick for "
+"view cart link."
+msgstr ""
+"O simplemente haga clic en el botón comprar para la compra individual y siga "
+"el enlace para ver el carrito de la compra."
+
+#: inc/wpqs_settings.php:42
+msgid "Implementation with shortcode"
+msgstr "Implementación con shortcode"
+
+#: inc/wpqs_settings.php:48
+msgid "Premium Shortcodes"
+msgstr "Códigos cortos premium"
+
+#: inc/wpqs_settings.php:49
+msgid "Click here to check Premium Shortcode feature"
+msgstr "Haga clic aquí para ver la característica Premium Shortcode"
+
+#: inc/wpqs_settings.php:56
+msgid "Instructions for buyers"
+msgstr "Instrucciones para compradores"
+
+#: inc/wpqs_settings.php:64
+msgid "List of compatible plugins"
+msgstr "Lista de complementos compatibles"
+
+#: inc/wpqs_settings.php:66 inc/wpqs_settings.php:68 inc/wpqs_settings.php:70
+msgid "Click here to install/activate and/or manage "
+msgstr "Haga clic aquí para instalar / activar y / o administrar "
+
+#: inc/wpqs_settings.php:75
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#~ msgid "Version"
+#~ msgstr "Versión"
+
+#~ msgid "instructions"
+#~ msgstr "instrucciones"
+
+#~ msgid "ID"
+#~ msgstr "CARNÉ DE IDENTIDAD"
+
+#~ msgid "Click here to install/activate and/or manage"
+#~ msgstr "Haga clic aquí para instalar / activar y / o administrar  "
+
+#~ msgid "Click here to install/activate and/or manage WP eCommerce"
+#~ msgstr ""
+#~ "Haga clic aquí para instalar / activar y / o administrar WP eCommerce"
+
+#~ msgid ""
+#~ "Click here to install/activate and/or manage Woocommerce Discounts Plus"
+#~ msgstr ""
+#~ "Haga clic aquí para instalar / activar y / o administrar Woocommerce "
+#~ "Discounts Plus"
